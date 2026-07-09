@@ -17,7 +17,7 @@ A single-screen game where the player drags a shark emoji across the screen usin
 
 ## Tech Stack
 
-- [Expo](https://expo.dev) (managed workflow, SDK 57)
+- [Expo](https://expo.dev) (managed workflow, SDK 54)
 - [React Native](https://reactnative.dev)
 - [TypeScript](https://www.typescriptlang.org/)
 - [react-native-gesture-handler](https://docs.swmansion.com/react-native-gesture-handler/) — drag gesture
